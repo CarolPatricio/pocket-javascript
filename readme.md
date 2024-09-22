@@ -78,23 +78,28 @@ O objetivo principal deste projeto é criar uma aplicação completa de **regist
     npm run migrate
     ```
 
+5. Execute o seed 
+    ```bash
+    npm run seed
+    ```
+
 5. Inicie o servidor backend:
     ```bash
     npm run dev
     ```
 
-6. Para o frontend, vá até o diretório:
+7. Para o frontend, vá até o diretório:
     ```bash
     cd web
     npm install
     ```
 
-7. Inicie o servidor frontend:
+8. Inicie o servidor frontend:
     ```bash
     npm run dev
     ```
 
-8. Acesse o projeto no navegador:
+9. Acesse o projeto no navegador:
     ```
     http://localhost:5173
     ```
